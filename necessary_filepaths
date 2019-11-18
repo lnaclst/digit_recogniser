@@ -1,0 +1,6 @@
+Data for UUN must be present in these filepaths in order to run initialise_models on class data (not previous years) using:
+DATA=${DATA:-/Volumes/Network/courses/sp/data_upload}
+
+/Volumes/Network/courses/sp/data_upload/lab/train
+
+/Volumes/Network/courses/sp/data_upload/mfcc/train/

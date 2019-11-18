@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+
+USER=$1
+
+./scripts/initialise_models $1
+./scripts/train_models $1
